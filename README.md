@@ -48,11 +48,3 @@ El sistema cuenta con un **Dashboard personalizado** que detecta el método de a
 
 ---
 
-## 🚀 Instalación y configuración
-
-Sigue estos pasos para levantar el proyecto en tu máquina local.
-
-### 1. Clonar el repositorio
-```bash
-git clone [https://github.com/YahirDas/nombre-de-tu-repo.git](https://github.com/YahirDas/nombre-de-tu-repo.git)
-cd nombre-de-tu-repositorio
