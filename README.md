@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Logo Laravel" width="100" />
 
-  # 📚 Sistema de Biblioteca con Google OAuth
+  # 📚 Sistema con Google OAuth
 
   <p>
     <strong>Proyecto Final - Curso PHP INFOTEC</strong>
