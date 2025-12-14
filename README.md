@@ -8,7 +8,7 @@
   <p>
     <strong>Proyecto Final - Curso PHP INFOTEC</strong>
     <br>
-    Desarrollado por <strong>Yahir</strong>
+    Desarrollado por <strong>Yahir Del Angel Santiago</strong>
   </p>
 
   <p>
@@ -48,11 +48,11 @@ El sistema cuenta con un **Dashboard personalizado** que detecta el método de a
 
 ---
 
-## 🚀 Instalación y Configuración
+## 🚀 Instalación y configuración
 
 Sigue estos pasos para levantar el proyecto en tu máquina local.
 
 ### 1. Clonar el repositorio
 ```bash
 git clone [https://github.com/YahirDas/nombre-de-tu-repo.git](https://github.com/YahirDas/nombre-de-tu-repo.git)
-cd nombre-de-tu-repo
+cd nombre-de-tu-repositorio
