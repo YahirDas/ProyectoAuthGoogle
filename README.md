@@ -38,13 +38,13 @@ Este proyecto es una aplicación web robusta desarrollada con el framework **Lar
 
 El sistema cuenta con un **Dashboard personalizado** que detecta el método de autenticación del usuario y muestra información dinámica basada en su perfil.
 
-## ✨ Características Principales
+## ✨ Características principales
 
-* **🔐 Autenticación Social:** Inicio de sesión rápido y seguro mediante Google (Laravel Socialite).
-* **👤 Panel de Usuario Dinámico:** Interfaz que saluda al usuario por su nombre y muestra distintivos según su método de acceso (Google vs Contraseña).
-* **📱 Diseño Responsivo:** Estilizado con **Tailwind CSS** para adaptarse a móviles y escritorio.
-* **🗄️ Base de Datos:** Gestión de usuarios mediante SQLite (fácil despliegue).
-* **🎨 UI Personalizada:** Página de bienvenida (Landing Page) rediseñada con vectores SVG de alta calidad.
+* **🔐 Autenticación social:** Inicio de sesión rápido y seguro mediante Google (Laravel Socialite).
+* **👤 Panel de usuario dinámico:** Interfaz que saluda al usuario por su nombre y muestra distintivos según su método de acceso (Google vs Contraseña).
+* **📱 Diseño responsivo:** Estilizado con **Tailwind CSS** para adaptarse a móviles y escritorio.
+* **🗄️ Base de datos:** Gestión de usuarios mediante SQLite (fácil despliegue).
+* **🎨 UI personalizada:** Página de bienvenida (Landing Page) rediseñada con vectores SVG de alta calidad.
 
 ---
 
